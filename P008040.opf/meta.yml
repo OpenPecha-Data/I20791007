@@ -1,15 +1,16 @@
-id: opecha:P008040
+id: P008040
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17111
   title: ལག་ལེན་སོ་བདུན་མ་དང་ཀློང་ཆེན་སྙིང་ཐིག
-  volume:
+  author: ''
+  volumes:
     74b928536a3f4053b0bd63914c5d6e47:
       image_group_id: I8LS17117
       title: Volume 1 of lag len so bdun ma dang klong chen snying thig
       volume_number: 1
       total_pages: 92
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལག་ལེན་སོ་བདུན་མ་དང་ཀློང་ཆེན་སྙིང་ཐིག
   author: ''
