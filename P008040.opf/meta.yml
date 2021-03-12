@@ -5,11 +5,12 @@ source_metadata:
   title: ལག་ལེན་སོ་བདུན་མ་དང་ཀློང་ཆེན་སྙིང་ཐིག
   author: ''
   volumes:
-    89d5e80c51ad4af9a5be20194ed5c443:
+    74b928536a3f4053b0bd63914c5d6e47:
       image_group_id: I8LS17117
-      title: ''
+      title: Volume 1 of lag len so bdun ma dang klong chen snying thig
       volume_number: 1
       total_pages: 92
+      base_file: v001.txt
 ebook_metadata:
   title: ལག་ལེན་སོ་བདུན་མ་དང་ཀློང་ཆེན་སྙིང་ཐིག
   author: ''
